@@ -1,5 +1,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asdaq) 
-[![](https://visitcount.itsvg.in/api?id=AlwaysRedNeverGreen&icon=0&color=0)](https://visitcount.itsvg.in)<br>
+
 # 💫 About Me:
 🔭 I’m currently researching on being able to use neural networks to solve complex PDEs<br>
 
